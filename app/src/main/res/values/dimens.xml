@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_header">24sp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="padding_text">17dp</dimen>
+    <dimen name="padding_horizontal">16dp</dimen>
+    <dimen name="vertikal_padding">16dp</dimen>
+</resources>
